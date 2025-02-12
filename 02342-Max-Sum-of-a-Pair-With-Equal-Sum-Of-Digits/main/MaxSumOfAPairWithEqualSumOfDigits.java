@@ -1,5 +1,3 @@
-package com.leetcode.solutions;
-
 public class MaxSumOfAPairWithEqualSumOfDigits {
     public int maximumSum(int[] nums) {
         if ((nums == null) || (nums.length < 2)) {
