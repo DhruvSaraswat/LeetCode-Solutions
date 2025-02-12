@@ -8,7 +8,7 @@ You are given a <b>0-indexed</b> array `nums` consisting of positive integers. Y
 Return the maximum value of `nums[i] + nums[j]` that you can obtain over all possible indices `i` and `j` that satisfy the conditions.
 
 <p>&nbsp;</p>
-<b>Example 1:</b>
+<p><b>Example 1:</b></p>
 
 <pre>
 <b>Input:</b> nums = [18,43,36,13,7]
@@ -22,7 +22,7 @@ So the maximum sum that we can obtain is 54.
 </pre>
 
 <br>
-<b>Example 2:</b>
+<p><b>Example 2:</b></p>
 
 <pre>
 <b>Input:</b> nums = [10,12,19,14]
@@ -33,7 +33,7 @@ So the maximum sum that we can obtain is 54.
 </pre>
 
 <p>&nbsp;</p>
-<b>Constraints:</b>
+<p><b>Constraints:</b></p>
 <ul>
 <li><code>1 <= nums.length <= 10<sup>5</sup></code></li>
 <br>
