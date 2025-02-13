@@ -3,13 +3,14 @@
 You are given a <b>0-indexed</b> integer array `nums`, and an integer `k`.
 
 <br>
+
 In one operation, you will:
 <ul>
-<li>Take the two smallest integers `x` and `y` in `nums`.</li>
+<li>Take the two smallest integers <code>x</code> and <code>y</code> in <code>nums</code>.</li>
 <br>
-<li>Remove `x` and `y` from `nums`.</li>
+<li>Remove <code>x</code> and <code>y</code> from <code>nums</code>.</li>
 <br>
-<li>Add `min(x, y) * 2 + max(x, y)` anywhere in the array.</li>
+<li>Add <code>min(x, y) * 2 + max(x, y)</code> anywhere in the array.</li>
 </ul>
 
 <br>
