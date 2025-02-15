@@ -2,13 +2,14 @@
 
 Given a positive integer `n`, return the _**punishment number of**_ `n`.
 
+<br>
+
 The **punishment number** of `n` is defined as the sum of the squares of all integers `i` such that:
 
 <ul>
 <li><code>1 <= i <= n</code></li><br>
 <li>The decimal representation of <code>i * i</code> can be partitioned into contiguous substrings such that the sum of the integer values of these substrings equals <code>i</code>.</li>
 </ul>
-<br>
 
 
 <p>&nbsp;</p>
