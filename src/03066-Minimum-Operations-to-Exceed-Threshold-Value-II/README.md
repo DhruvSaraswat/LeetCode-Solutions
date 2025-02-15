@@ -38,7 +38,7 @@ It can be shown that 2 is the minimum number of operations needed so that all el
 <p><b>Example 2:</b></p>
 
 <pre>
-<b>Input:</b> [1,1,2,4,9], k = 20
+<b>Input:</b> nums = [1,1,2,4,9], k = 20
 
 <b>Output:</b> 4
 
