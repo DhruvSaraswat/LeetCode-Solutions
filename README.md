@@ -1,11 +1,13 @@
-# Overview
+## Overview
 Hi !
 
 This repository contains Java solutions to the LeetCode problem of the day along with the problem statement and the intuition behind each approach. This is to help myself and others to prepare for interviews involving data structures and algorithms.
 
 Happy coding, keep smiling ☺️
 
-# Problems and Solutions
+## Index of Contents
+
+## Problems and Solutions
 The categories or tags related to each problem are not mentioned on purpose since part of the problem solving is identifying how to solve that problem.
 
 |LeetCode Problem|Solution|Difficulty|Unit Tests|
