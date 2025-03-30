@@ -6,6 +6,7 @@ This repository contains Java solutions to the LeetCode problem of the day along
 Happy coding, keep smiling ☺️
 
 ## Index of Contents
+- [Problems and Solutions](https://github.com/DhruvSaraswat/LeetCode-Solutions?tab=readme-ov-file#problems-and-solutions)
 
 ## Problems and Solutions
 The categories or tags related to each problem are not mentioned on purpose since part of the problem solving is identifying how to solve that problem.
